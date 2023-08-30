@@ -18,5 +18,5 @@ VScodeの拡張機能であるDev Containersを利用すると、快適に開発
 
 # 起動コマンド
 ```
-docker compose up
+docker compose up -d
 ```
